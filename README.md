@@ -12,9 +12,9 @@ The dataset used in this project is a Twitter dataset, which includes the follow
 - `offensive_language`: The number of times the tweet has been flagged as offensive language.
 - `neither`: The number of times the tweet has been flagged as neither hate speech nor offensive language.
 - `class`: The class label for the tweet:
-  - 0: Neither
+  - 0: Hate
   - 1: Offensive Language
-  - 2: Hate Speech
+  - 2: Neither Hateful nor Offensive
 
 ## Requirements
 
