@@ -1,4 +1,4 @@
-# Twitter_Sentiment_Analysis
+# Hate_Speech_Detection
 
 ## Project Overview
 
